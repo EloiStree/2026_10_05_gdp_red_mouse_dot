@@ -1,3 +1,4 @@
+T
 ```
 git submodule add https://github.com/EloiStree/2026_10_05_gdp_red_mouse_dot.git addons/2026_10_05_gdp_red_mouse_dot
 ```
